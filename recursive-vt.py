@@ -1,21 +1,8 @@
-# coding: utf-8
- 
 __author__ = 'Fabian Voith'
 __email__ = 'admin@fabian-voith.de'
 __author__ = 'Roberto Bruzzese'
-__email__ = 'bruzzese.953247@studenti.uniroma1.it'
-######################### e103ae026aa10ff158a37e3d037df740ec745ab78fe3d06f0069eac47d9bb4f1
-# 0d16bcf91b67b5bcfd597e2ccb3885c52b5f4e2f3a9bb04824727b8765bbd422
-# 42d356e4383af8b10e211d33855a29bbe38980e0a0b88dec01d6e496e12a84d2 USA
-# 083693e9bf01e54a1a13e49f23060c0905b8df44fb8e768e3602e9ffd502431e usa davide
-# 74a6c2edab31a82a9aea93caae72c1dd2512684d8674a85779818b3ad4ee701e proton vpn roberto.bruzzese@icloud.com
-# 1d119070bdfb221ac242fb38263d5b059f6417320c684c66ee88b92b5ea2a01c malwarelasapienza proton vp 
-# d0b664ca77137e09a779b4a27fb880eb3fab7a3e40fa186c9563d2d459332cb8 topwebmaster2018
-# 36f81a6ebf464ddc4b3e20d141ec19cc7cd7f1a401ce8449d69b1cc49bcdffc0 demicheleflor
-# 1c563807cc764d4eed08072b12b453ad56c78b5d565a0f05c59ec6d0fbbe6018 romerobarbagianni
-# ae0c9ead5d98578322970a58cd8eb9e1532efa46d78fd1c58b0fd74e07e5261e vercingetorigevirginio
-# 6a0f733c10d7c099136427e1ddda181f0d18a05676d7b161d9087b0c629a3a60 roberto_brunn
-# 7a6cb576e3489237a6dfb4f4ce2e5e7d68acf326400d74f85647806404425e60 florianademichele
+__author__ = 'bruzzese.953247@studenti.uniroma1.it'
+#########################
 # When first running the script, a default config.yaml will be created.
 # Adjust config.yaml before using the script a second time.
 # Especially the following two values need to be adjusted:
