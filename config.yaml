@@ -1,0 +1,6 @@
+file_path: C:\\Users\\brobe\\Downloads\\virus\\V_0_30
+recursive: True
+virustotal:
+  alerting_level: 0.1
+  api_key: e103ae026aa10ff158a37e3d037df740ec745ab78fe3d06f0069eac47d9bb4f1
+ 
